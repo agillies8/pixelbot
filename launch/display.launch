@@ -1,0 +1,24 @@
+<launch>
+  <arg
+    name="model" />
+  <param
+    name="robot_description"
+    textfile="$(find pixelbot)/urdf/pixelbot.urdf" />
+  <node
+    name="robot_state_publisher"
+    pkg="robot_state_publisher"
+    type="robot_state_publisher" />
+  <node
+    name="joint_commander"
+    pkg="pixelbot"
+    type="joint_commander.py" />
+  <node
+    name="pixelate"
+    pkg="pixelbot"
+    type="pixelate.py" />
+  <node
+    name="rviz"
+    pkg="rviz"
+    type="rviz"
+    args="-d $(find pixelbot)/config/pixelbot.rviz" />
+</launch>

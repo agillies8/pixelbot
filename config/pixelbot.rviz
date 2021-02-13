@@ -1,0 +1,1425 @@
+Panels:
+  - Class: rviz/Displays
+    Help Height: 78
+    Name: Displays
+    Property Tree Widget:
+      Expanded:
+        - /Global Options1
+        - /Status1
+      Splitter Ratio: 0.5
+    Tree Height: 549
+  - Class: rviz/Selection
+    Name: Selection
+  - Class: rviz/Tool Properties
+    Expanded:
+      - /2D Pose Estimate1
+      - /2D Nav Goal1
+      - /Publish Point1
+    Name: Tool Properties
+    Splitter Ratio: 0.5886790156364441
+  - Class: rviz/Views
+    Expanded:
+      - /Current View1
+    Name: Views
+    Splitter Ratio: 0.5
+  - Class: rviz/Time
+    Experimental: false
+    Name: Time
+    SyncMode: 0
+    SyncSource: ""
+Preferences:
+  PromptSaveOnExit: true
+Toolbars:
+  toolButtonStyle: 2
+Visualization Manager:
+  Class: ""
+  Displays:
+    - Alpha: 0.5
+      Cell Size: 1
+      Class: rviz/Grid
+      Color: 160; 160; 164
+      Enabled: true
+      Line Style:
+        Line Width: 0.029999999329447746
+        Value: Lines
+      Name: Grid
+      Normal Cell Count: 0
+      Offset:
+        X: 0
+        Y: 0
+        Z: 0
+      Plane: XY
+      Plane Cell Count: 10
+      Reference Frame: <Fixed Frame>
+      Value: true
+    - Alpha: 1
+      Class: rviz/RobotModel
+      Collision Enabled: false
+      Enabled: true
+      Links:
+        1-1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        1-10:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        1-11:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        1-12:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        1-13:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        1-14:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        1-15:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        1-16:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        1-2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        1-3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        1-4:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        1-5:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        1-6:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        1-7:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        1-8:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        1-9:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        10-1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        10-10:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        10-11:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        10-12:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        10-13:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        10-14:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        10-15:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        10-16:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        10-2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        10-3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        10-4:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        10-5:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        10-6:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        10-7:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        10-8:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        10-9:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        11-1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        11-10:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        11-11:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        11-12:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        11-13:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        11-14:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        11-15:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        11-16:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        11-2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        11-3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        11-4:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        11-5:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        11-6:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        11-7:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        11-8:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        11-9:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        12-1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        12-10:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        12-11:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        12-12:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        12-13:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        12-14:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        12-15:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        12-16:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        12-2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        12-3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        12-4:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        12-5:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        12-6:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        12-7:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        12-8:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        12-9:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        13-1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        13-10:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        13-11:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        13-12:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        13-13:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        13-14:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        13-15:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        13-16:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        13-2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        13-3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        13-4:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        13-5:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        13-6:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        13-7:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        13-8:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        13-9:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        14-1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        14-10:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        14-11:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        14-12:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        14-13:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        14-14:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        14-15:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        14-16:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        14-2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        14-3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        14-4:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        14-5:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        14-6:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        14-7:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        14-8:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        14-9:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        15-1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        15-10:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        15-11:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        15-12:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        15-13:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        15-14:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        15-15:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        15-16:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        15-2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        15-3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        15-4:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        15-5:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        15-6:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        15-7:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        15-8:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        15-9:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        16-1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        16-10:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        16-11:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        16-12:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        16-13:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        16-14:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        16-15:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        16-16:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        16-2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        16-3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        16-4:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        16-5:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        16-6:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        16-7:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        16-8:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        16-9:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        2-1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        2-10:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        2-11:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        2-12:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        2-13:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        2-14:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        2-15:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        2-16:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        2-2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        2-3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        2-4:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        2-5:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        2-6:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        2-7:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        2-8:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        2-9:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        3-1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        3-10:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        3-11:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        3-12:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        3-13:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        3-14:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        3-15:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        3-16:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        3-2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        3-3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        3-4:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        3-5:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        3-6:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        3-7:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        3-8:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        3-9:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        4-1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        4-10:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        4-11:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        4-12:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        4-13:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        4-14:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        4-15:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        4-16:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        4-2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        4-3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        4-4:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        4-5:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        4-6:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        4-7:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        4-8:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        4-9:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        5-1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        5-10:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        5-11:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        5-12:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        5-13:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        5-14:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        5-15:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        5-16:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        5-2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        5-3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        5-4:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        5-5:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        5-6:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        5-7:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        5-8:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        5-9:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        6-1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        6-10:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        6-11:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        6-12:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        6-13:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        6-14:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        6-15:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        6-16:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        6-2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        6-3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        6-4:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        6-5:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        6-6:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        6-7:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        6-8:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        6-9:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        7-1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        7-10:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        7-11:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        7-12:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        7-13:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        7-14:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        7-15:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        7-16:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        7-2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        7-3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        7-4:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        7-5:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        7-6:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        7-7:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        7-8:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        7-9:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        8-1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        8-10:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        8-11:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        8-12:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        8-13:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        8-14:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        8-15:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        8-16:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        8-2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        8-3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        8-4:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        8-5:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        8-6:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        8-7:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        8-8:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        8-9:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        9-1:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        9-10:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        9-11:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        9-12:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        9-13:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        9-14:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        9-15:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        9-16:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        9-2:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        9-3:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        9-4:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        9-5:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        9-6:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        9-7:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        9-8:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        9-9:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        All Links Enabled: true
+        Expand Joint Details: false
+        Expand Link Details: false
+        Expand Tree: false
+        Link Tree Style: Links in Alphabetic Order
+        base_link:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+          Value: true
+        dummy:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+      Name: RobotModel
+      Robot Description: robot_description
+      TF Prefix: ""
+      Update Interval: 0
+      Value: true
+      Visual Enabled: true
+  Enabled: true
+  Global Options:
+    Background Color: 48; 48; 48
+    Default Light: true
+    Fixed Frame: base_link
+    Frame Rate: 30
+  Name: root
+  Tools:
+    - Class: rviz/Interact
+      Hide Inactive Objects: true
+    - Class: rviz/MoveCamera
+    - Class: rviz/Select
+    - Class: rviz/FocusCamera
+    - Class: rviz/Measure
+    - Class: rviz/SetInitialPose
+      Theta std deviation: 0.2617993950843811
+      Topic: /initialpose
+      X std deviation: 0.5
+      Y std deviation: 0.5
+    - Class: rviz/SetGoal
+      Topic: /move_base_simple/goal
+    - Class: rviz/PublishPoint
+      Single click: true
+      Topic: /clicked_point
+  Value: true
+  Views:
+    Current:
+      Class: rviz/Orbit
+      Distance: 1.2028908729553223
+      Enable Stereo Rendering:
+        Stereo Eye Separation: 0.05999999865889549
+        Stereo Focal Distance: 1
+        Swap Stereo Eyes: false
+        Value: false
+      Focal Point:
+        X: 0
+        Y: 0
+        Z: 0
+      Focal Shape Fixed Size: true
+      Focal Shape Size: 0.05000000074505806
+      Invert Z Axis: false
+      Name: Current View
+      Near Clip Distance: 0.009999999776482582
+      Pitch: 0.015398111194372177
+      Target Frame: <Fixed Frame>
+      Value: Orbit (rviz)
+      Yaw: 4.703584671020508
+    Saved: ~
+Window Geometry:
+  Displays:
+    collapsed: true
+  Height: 846
+  Hide Left Dock: true
+  Hide Right Dock: true
+  QMainWindow State: 000000ff00000000fd000000040000000000000156000002b0fc0200000008fb0000001200530065006c0065006300740069006f006e00000001e10000009b0000005c00fffffffb0000001e0054006f006f006c002000500072006f007000650072007400690065007302000001ed000001df00000185000000a3fb000000120056006900650077007300200054006f006f02000001df000002110000018500000122fb000000200054006f006f006c002000500072006f0070006500720074006900650073003203000002880000011d000002210000017afb000000100044006900730070006c006100790073000000003d000002b0000000c900fffffffb0000002000730065006c0065006300740069006f006e00200062007500660066006500720200000138000000aa0000023a00000294fb00000014005700690064006500530074006500720065006f02000000e6000000d2000003ee0000030bfb0000000c004b0069006e0065006300740200000186000001060000030c00000261000000010000010f000002b0fc0200000003fb0000001e0054006f006f006c002000500072006f00700065007200740069006500730100000041000000780000000000000000fb0000000a00560069006500770073000000003d000002b0000000a400fffffffb0000001200530065006c0065006300740069006f006e010000025a000000b200000000000000000000000200000490000000a9fc0100000001fb0000000a00560069006500770073030000004e00000080000002e10000019700000003000004b00000003efc0100000002fb0000000800540069006d00650100000000000004b0000002eb00fffffffb0000000800540069006d00650100000000000004500000000000000000000004b0000002b000000004000000040000000800000008fc0000000100000002000000010000000a0054006f006f006c00730100000000ffffffff0000000000000000
+  Selection:
+    collapsed: false
+  Time:
+    collapsed: false
+  Tool Properties:
+    collapsed: false
+  Views:
+    collapsed: true
+  Width: 1200
+  X: 441
+  Y: 77
