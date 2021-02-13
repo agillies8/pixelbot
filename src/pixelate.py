@@ -27,11 +27,18 @@ def pixelator():
         #greyscale image
         gray = cv2.cvtColor(input, cv2.COLOR_BGR2GRAY)
 
+        #threshold for contrast: do white, inverse, do black, inverse back
+        ret,thresh4 = cv2.threshold(gray,110,255,cv2.THRESH_TOZERO)
+        thresh4_inv = cv2.bitwise_not(thresh4)
+        ret,thresh5 = cv2.threshold(thresh4_inv,110,255,cv2.THRESH_TOZERO)
+        thresh5_inv = cv2.bitwise_not(thresh5)
+
         # Resize input to "pixelated" size
-        output = cv2.resize(gray, (w, h), interpolation=cv2.INTER_LINEAR)
+        output = cv2.resize(thresh5_inv, (w, h), interpolation=cv2.INTER_LINEAR)
 
         #resize pixelated image back to original size for viewing as output image
         temp = cv2.resize(output, (width, height), interpolation=cv2.INTER_NEAREST)
+        
         
         #show the images
         try:
