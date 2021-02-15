@@ -11,10 +11,11 @@ To start:
 3) Clone this repo into the /src dir of your catkin workspace and make it
 4) Start with this command: roslaunch pixelbot display.launch
 
-Key resources
--Inspired by this work: https://www.youtube.com/watch?v=kV8v2GKC8WA&t=394s&ab_channel=WIRED
--Creating a URDF from solidworks: http://wiki.ros.org/sw_urdf_exporter (I just used this as a starting point, then created a small script to make the rest since doing it all by hand would be nuts)
--How to go between ROS Image messages and OpenCV image formats: http://wiki.ros.org/cv_bridge/Tutorials/ConvertingBetweenROSImagesAndOpenCVImagesPython
--Basic primer on thresholding in OpenCV: https://docs.opencv.org/3.4/db/d8e/tutorial_threshold.html
--Useful note on pixelating an image using OpenCV: https://stackoverflow.com/questions/47143332/how-to-pixelate-a-square-image-to-256-big-pixels-with-python/51547855#51547855
+Key resources:
+
+1) Inspired by this work: https://www.youtube.com/watch?v=kV8v2GKC8WA&t=394s&ab_channel=WIRED
+2) Creating a URDF from solidworks: http://wiki.ros.org/sw_urdf_exporter (I just used this as a starting point, then created a small script to make the rest since doing it all by hand would be nuts)
+3) How to go between ROS Image messages and OpenCV image formats: http://wiki.ros.org/cv_bridge/Tutorials/ConvertingBetweenROSImagesAndOpenCVImagesPython
+4) Basic primer on thresholding in OpenCV: https://docs.opencv.org/3.4/db/d8e/tutorial_threshold.html
+5) Useful note on pixelating an image using OpenCV: https://stackoverflow.com/questions/47143332/how-to-pixelate-a-square-image-to-256-big-pixels-with-python/51547855#51547855
 
