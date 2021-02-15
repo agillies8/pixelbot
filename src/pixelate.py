@@ -28,9 +28,9 @@ def pixelator():
         gray = cv2.cvtColor(input, cv2.COLOR_BGR2GRAY)
 
         #threshold for contrast: do white, inverse, do black, inverse back
-        ret,thresh4 = cv2.threshold(gray,110,255,cv2.THRESH_TOZERO)
+        ret,thresh4 = cv2.threshold(gray,50,255,cv2.THRESH_TOZERO)
         thresh4_inv = cv2.bitwise_not(thresh4)
-        ret,thresh5 = cv2.threshold(thresh4_inv,110,255,cv2.THRESH_TOZERO)
+        ret,thresh5 = cv2.threshold(thresh4_inv,50,255,cv2.THRESH_TOZERO)
         thresh5_inv = cv2.bitwise_not(thresh5)
 
         # Resize input to "pixelated" size
